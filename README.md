@@ -72,3 +72,7 @@ The website is optimized for:
 # 👨‍💻 Author
 
 Developed by Dharun
+
+<img width="1851" height="1000" alt="image" src="https://github.com/user-attachments/assets/e330c47e-0002-4372-8a50-5034d6903b39" />
+<img width="1822" height="908" alt="image" src="https://github.com/user-attachments/assets/5abae765-4df7-4b6f-9305-584cfb5dbbb7" />
+
